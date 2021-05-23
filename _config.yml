@@ -31,7 +31,7 @@ github_username:  roto2021
 
 # Build settings
 theme: minima
-google_analytics:G-4NH67BE0HH
+google_analytics: G-4NH67BE0HH
 plugins:
   - jekyll-feed
 
